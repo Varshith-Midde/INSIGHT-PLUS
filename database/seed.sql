@@ -1,0 +1,2 @@
+-- The original question bank lives in client/src/data/questions.json.
+-- Import that JSON into public.questions as part of your Supabase setup if desired.

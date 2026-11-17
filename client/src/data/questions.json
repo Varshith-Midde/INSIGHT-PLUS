@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "classic-001",
+    "mode": "classic",
+    "text": "What's a tiny thing that instantly improves your day?"
+  },
+  {
+    "id": "classic-002",
+    "mode": "classic",
+    "text": "What skill would you love to learn in one weekend?"
+  },
+  {
+    "id": "classic-003",
+    "mode": "classic",
+    "text": "Which fictional place would you visit for a day?"
+  },
+  {
+    "id": "classic-004",
+    "mode": "classic",
+    "text": "What food could you eat every week without getting bored?"
+  },
+  {
+    "id": "classic-005",
+    "mode": "classic",
+    "text": "What is a surprisingly useful thing you own?"
+  },
+  {
+    "id": "classic-006",
+    "mode": "classic",
+    "text": "Which song can always lift your mood?"
+  },
+  {
+    "id": "classic-007",
+    "mode": "classic",
+    "text": "What would your perfect free afternoon look like?"
+  },
+  {
+    "id": "classic-008",
+    "mode": "classic",
+    "text": "What is one hobby you would try if time were unlimited?"
+  },
+  {
+    "id": "classic-009",
+    "mode": "classic",
+    "text": "Which everyday invention deserves more appreciation?"
+  },
+  {
+    "id": "classic-010",
+    "mode": "classic",
+    "text": "What is the funniest misunderstanding you've had?"
+  },
+  {
+    "id": "classic-011",
+    "mode": "classic",
+    "text": "What's a small achievement you're proud of?"
+  },
+  {
+    "id": "classic-012",
+    "mode": "classic",
+    "text": "Which season matches your personality best?"
+  },
+  {
+    "id": "classic-013",
+    "mode": "classic",
+    "text": "What would you name a café you opened?"
+  },
+  {
+    "id": "classic-014",
+    "mode": "classic",
+    "text": "What is your most unusual food combination?"
+  },
+  {
+    "id": "classic-015",
+    "mode": "classic",
+    "text": "Which movie world would make a great holiday destination?"
+  },
+  {
+    "id": "classic-016",
+    "mode": "classic",
+    "text": "What is something you used to dislike but now enjoy?"
+  },
+  {
+    "id": "classic-017",
+    "mode": "classic",
+    "text": "What simple task are you unusually good at?"
+  },
+  {
+    "id": "classic-018",
+    "mode": "classic",
+    "text": "What is your ideal way to celebrate good news?"
+  },
+  {
+    "id": "classic-019",
+    "mode": "classic",
+    "text": "Which animal would make the funniest roommate?"
+  },
+  {
+    "id": "classic-020",
+    "mode": "classic",
+    "text": "What is one thing you wish schools taught everyone?"
+  },
+  {
+    "id": "blackout-001",
+    "mode": "blackout",
+    "text": "Describe your week using only a movie title."
+  },
+  {
+    "id": "blackout-002",
+    "mode": "blackout",
+    "text": "If your phone could reveal one harmless secret, what would it say?"
+  },
+  {
+    "id": "blackout-003",
+    "mode": "blackout",
+    "text": "Invent a new festival and its strangest tradition."
+  },
+  {
+    "id": "blackout-004",
+    "mode": "blackout",
+    "text": "You have 30 seconds to sell an ordinary spoon. What's your pitch?"
+  },
+  {
+    "id": "blackout-005",
+    "mode": "blackout",
+    "text": "What would be the worst possible name for a superhero?"
+  },
+  {
+    "id": "blackout-006",
+    "mode": "blackout",
+    "text": "Create a slogan for the person sitting opposite you."
+  },
+  {
+    "id": "blackout-007",
+    "mode": "blackout",
+    "text": "What object in this room would survive a zombie movie?"
+  },
+  {
+    "id": "blackout-008",
+    "mode": "blackout",
+    "text": "If your laugh had a warning label, what would it say?"
+  },
+  {
+    "id": "blackout-009",
+    "mode": "blackout",
+    "text": "Give a weather forecast for your current mood."
+  },
+  {
+    "id": "blackout-010",
+    "mode": "blackout",
+    "text": "What would you put in a museum about this friend group?"
+  },
+  {
+    "id": "blackout-011",
+    "mode": "blackout",
+    "text": "Explain your morning routine like a sports commentator."
+  },
+  {
+    "id": "blackout-012",
+    "mode": "blackout",
+    "text": "What would your personal theme-park ride be called?"
+  },
+  {
+    "id": "blackout-013",
+    "mode": "blackout",
+    "text": "Make up a new word and define it."
+  },
+  {
+    "id": "blackout-014",
+    "mode": "blackout",
+    "text": "What is the least intimidating superpower?"
+  },
+  {
+    "id": "blackout-015",
+    "mode": "blackout",
+    "text": "If your shoes could talk, what story would they tell?"
+  },
+  {
+    "id": "blackout-016",
+    "mode": "blackout",
+    "text": "Design a useless but entertaining app."
+  },
+  {
+    "id": "blackout-017",
+    "mode": "blackout",
+    "text": "What would be a terrible title for your autobiography?"
+  },
+  {
+    "id": "blackout-018",
+    "mode": "blackout",
+    "text": "Describe an alien's first visit to your kitchen."
+  },
+  {
+    "id": "blackout-019",
+    "mode": "blackout",
+    "text": "What rule would you add to make Mondays better?"
+  },
+  {
+    "id": "blackout-020",
+    "mode": "blackout",
+    "text": "Create a handshake for this group."
+  },
+  {
+    "id": "deep-questions-001",
+    "mode": "deep-questions",
+    "text": "What belief have you changed your mind about?"
+  },
+  {
+    "id": "deep-questions-002",
+    "mode": "deep-questions",
+    "text": "When do you feel most understood?"
+  },
+  {
+    "id": "deep-questions-003",
+    "mode": "deep-questions",
+    "text": "What does a meaningful friendship look like to you?"
+  },
+  {
+    "id": "deep-questions-004",
+    "mode": "deep-questions",
+    "text": "What is a fear you have gradually become better at facing?"
+  },
+  {
+    "id": "deep-questions-005",
+    "mode": "deep-questions",
+    "text": "Which experience taught you patience?"
+  },
+  {
+    "id": "deep-questions-006",
+    "mode": "deep-questions",
+    "text": "What kind of support helps you most when life gets difficult?"
+  },
+  {
+    "id": "deep-questions-007",
+    "mode": "deep-questions",
+    "text": "What does success mean to you beyond money or status?"
+  },
+  {
+    "id": "deep-questions-008",
+    "mode": "deep-questions",
+    "text": "What is something you wish people asked you more often?"
+  },
+  {
+    "id": "deep-questions-009",
+    "mode": "deep-questions",
+    "text": "Which value would you never compromise?"
+  },
+  {
+    "id": "deep-questions-010",
+    "mode": "deep-questions",
+    "text": "What makes a place feel like home?"
+  },
+  {
+    "id": "deep-questions-011",
+    "mode": "deep-questions",
+    "text": "What is a lesson you learned later than you wish?"
+  },
+  {
+    "id": "deep-questions-012",
+    "mode": "deep-questions",
+    "text": "When do you find it easiest to be yourself?"
+  },
+  {
+    "id": "deep-questions-013",
+    "mode": "deep-questions",
+    "text": "What is one thing you want your future self to remember?"
+  },
+  {
+    "id": "deep-questions-014",
+    "mode": "deep-questions",
+    "text": "What does forgiveness mean to you?"
+  },
+  {
+    "id": "deep-questions-015",
+    "mode": "deep-questions",
+    "text": "Which relationship skill do you want to improve?"
+  },
+  {
+    "id": "deep-questions-016",
+    "mode": "deep-questions",
+    "text": "What is a risk that helped you grow?"
+  },
+  {
+    "id": "deep-questions-017",
+    "mode": "deep-questions",
+    "text": "What makes you feel genuinely appreciated?"
+  },
+  {
+    "id": "deep-questions-018",
+    "mode": "deep-questions",
+    "text": "What is something you are still figuring out?"
+  },
+  {
+    "id": "deep-questions-019",
+    "mode": "deep-questions",
+    "text": "How do you decide when to let something go?"
+  },
+  {
+    "id": "deep-questions-020",
+    "mode": "deep-questions",
+    "text": "What would a balanced, happy life look like to you?"
+  },
+  {
+    "id": "spicy-001",
+    "mode": "spicy",
+    "text": "What is the most harmless thing that gives you an instant crush?"
+  },
+  {
+    "id": "spicy-002",
+    "mode": "spicy",
+    "text": "What is your funniest attempt at flirting?"
+  },
+  {
+    "id": "spicy-003",
+    "mode": "spicy",
+    "text": "Which compliment do you secretly love receiving?"
+  },
+  {
+    "id": "spicy-004",
+    "mode": "spicy",
+    "text": "What is your biggest green flag in a person?"
+  },
+  {
+    "id": "spicy-005",
+    "mode": "spicy",
+    "text": "What is a silly deal-breaker you have?"
+  },
+  {
+    "id": "spicy-006",
+    "mode": "spicy",
+    "text": "What is the boldest message you have ever sent?"
+  },
+  {
+    "id": "spicy-007",
+    "mode": "spicy",
+    "text": "What is your ideal low-budget date?"
+  },
+  {
+    "id": "spicy-008",
+    "mode": "spicy",
+    "text": "What is a romantic cliché you actually enjoy?"
+  },
+  {
+    "id": "spicy-009",
+    "mode": "spicy",
+    "text": "What is the most awkward date moment you can imagine?"
+  },
+  {
+    "id": "spicy-010",
+    "mode": "spicy",
+    "text": "What quality makes someone instantly more attractive?"
+  },
+  {
+    "id": "spicy-011",
+    "mode": "spicy",
+    "text": "Would you rather plan a surprise date or receive one?"
+  },
+  {
+    "id": "spicy-012",
+    "mode": "spicy",
+    "text": "What is a song that belongs on a romantic playlist?"
+  },
+  {
+    "id": "spicy-013",
+    "mode": "spicy",
+    "text": "What is your most obvious tell when you like someone?"
+  },
+  {
+    "id": "spicy-014",
+    "mode": "spicy",
+    "text": "What is a playful nickname you would give a crush?"
+  },
+  {
+    "id": "spicy-015",
+    "mode": "spicy",
+    "text": "What is a first-date question you always want answered?"
+  },
+  {
+    "id": "spicy-016",
+    "mode": "spicy",
+    "text": "What is one confidence boost that always works for you?"
+  },
+  {
+    "id": "spicy-017",
+    "mode": "spicy",
+    "text": "Which fictional couple has the best chemistry?"
+  },
+  {
+    "id": "spicy-018",
+    "mode": "spicy",
+    "text": "What is a sweet gesture that costs nothing?"
+  },
+  {
+    "id": "spicy-019",
+    "mode": "spicy",
+    "text": "What is your funniest relationship opinion?"
+  },
+  {
+    "id": "spicy-020",
+    "mode": "spicy",
+    "text": "What makes a conversation unforgettable?"
+  },
+  {
+    "id": "battle-001",
+    "mode": "battle",
+    "text": "Defend your choice: sunrise or sunset?"
+  },
+  {
+    "id": "battle-002",
+    "mode": "battle",
+    "text": "Which is the superior snack: sweet or salty?"
+  },
+  {
+    "id": "battle-003",
+    "mode": "battle",
+    "text": "Make the strongest case for staying up late."
+  },
+  {
+    "id": "battle-004",
+    "mode": "battle",
+    "text": "Which fictional character would win a cooking contest?"
+  },
+  {
+    "id": "battle-005",
+    "mode": "battle",
+    "text": "Argue that rainy days are better than sunny days."
+  },
+  {
+    "id": "battle-006",
+    "mode": "battle",
+    "text": "Which invention would be hardest to live without?"
+  },
+  {
+    "id": "battle-007",
+    "mode": "battle",
+    "text": "Make a case for books over movies, or the reverse."
+  },
+  {
+    "id": "battle-008",
+    "mode": "battle",
+    "text": "Which animal would be the best team captain?"
+  },
+  {
+    "id": "battle-009",
+    "mode": "battle",
+    "text": "Defend the most underrated pizza topping."
+  },
+  {
+    "id": "battle-010",
+    "mode": "battle",
+    "text": "Which superpower is best for everyday life?"
+  },
+  {
+    "id": "battle-011",
+    "mode": "battle",
+    "text": "Would a robot or a dragon make a better roommate?"
+  },
+  {
+    "id": "battle-012",
+    "mode": "battle",
+    "text": "Which decade had the best music style?"
+  },
+  {
+    "id": "battle-013",
+    "mode": "battle",
+    "text": "Make a case for public transport over driving."
+  },
+  {
+    "id": "battle-014",
+    "mode": "battle",
+    "text": "What is the best way to spend a rainy afternoon?"
+  },
+  {
+    "id": "battle-015",
+    "mode": "battle",
+    "text": "Which game genre deserves more attention?"
+  },
+  {
+    "id": "battle-016",
+    "mode": "battle",
+    "text": "Choose one: explore the ocean or explore space. Defend it."
+  },
+  {
+    "id": "battle-017",
+    "mode": "battle",
+    "text": "Which fictional villain has the best argument?"
+  },
+  {
+    "id": "battle-018",
+    "mode": "battle",
+    "text": "Which meal deserves to be served at any time?"
+  },
+  {
+    "id": "battle-019",
+    "mode": "battle",
+    "text": "What is the most useful subject to learn?"
+  },
+  {
+    "id": "battle-020",
+    "mode": "battle",
+    "text": "Which is better: planning everything or being spontaneous?"
+  },
+  {
+    "id": "truth-or-dare-001",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a harmless lie you told as a child?"
+  },
+  {
+    "id": "truth-or-dare-002",
+    "mode": "truth-or-dare",
+    "text": "Dare: Give everyone a dramatic movie-trailer introduction."
+  },
+  {
+    "id": "truth-or-dare-003",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a talent you rarely get to show?"
+  },
+  {
+    "id": "truth-or-dare-004",
+    "mode": "truth-or-dare",
+    "text": "Dare: Speak like a news anchor for the next minute."
+  },
+  {
+    "id": "truth-or-dare-005",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is the funniest thing in your search history that is safe to share?"
+  },
+  {
+    "id": "truth-or-dare-006",
+    "mode": "truth-or-dare",
+    "text": "Dare: Invent and perform a five-second dance."
+  },
+  {
+    "id": "truth-or-dare-007",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a fear that sounds silly to others?"
+  },
+  {
+    "id": "truth-or-dare-008",
+    "mode": "truth-or-dare",
+    "text": "Dare: Compliment every player using one word."
+  },
+  {
+    "id": "truth-or-dare-009",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is the strangest dream you remember?"
+  },
+  {
+    "id": "truth-or-dare-010",
+    "mode": "truth-or-dare",
+    "text": "Dare: Describe your favourite food like a luxury product."
+  },
+  {
+    "id": "truth-or-dare-011",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is something you pretend to understand?"
+  },
+  {
+    "id": "truth-or-dare-012",
+    "mode": "truth-or-dare",
+    "text": "Dare: Make up a theme song for the group."
+  },
+  {
+    "id": "truth-or-dare-013",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is your most memorable school moment?"
+  },
+  {
+    "id": "truth-or-dare-014",
+    "mode": "truth-or-dare",
+    "text": "Dare: Do your best impression of a robot."
+  },
+  {
+    "id": "truth-or-dare-015",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a small rule you secretly break?"
+  },
+  {
+    "id": "truth-or-dare-016",
+    "mode": "truth-or-dare",
+    "text": "Dare: Tell a story using exactly five words."
+  },
+  {
+    "id": "truth-or-dare-017",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a nickname you have had?"
+  },
+  {
+    "id": "truth-or-dare-018",
+    "mode": "truth-or-dare",
+    "text": "Dare: Give a weather report for the room."
+  },
+  {
+    "id": "truth-or-dare-019",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a funny habit you have?"
+  },
+  {
+    "id": "truth-or-dare-020",
+    "mode": "truth-or-dare",
+    "text": "Dare: Make an imaginary award and present it to someone."
+  },
+  {
+    "id": "would-you-rather-001",
+    "mode": "would-you-rather",
+    "text": "Would you rather explore space or the deepest ocean?"
+  },
+  {
+    "id": "would-you-rather-002",
+    "mode": "would-you-rather",
+    "text": "Would you rather always arrive 20 minutes early or 10 minutes late?"
+  },
+  {
+    "id": "would-you-rather-003",
+    "mode": "would-you-rather",
+    "text": "Would you rather have a pause button or a rewind button for life?"
+  },
+  {
+    "id": "would-you-rather-004",
+    "mode": "would-you-rather",
+    "text": "Would you rather speak every language or play every instrument?"
+  },
+  {
+    "id": "would-you-rather-005",
+    "mode": "would-you-rather",
+    "text": "Would you rather live in a treehouse or a houseboat?"
+  },
+  {
+    "id": "would-you-rather-006",
+    "mode": "would-you-rather",
+    "text": "Would you rather give up music for a month or movies for a year?"
+  },
+  {
+    "id": "would-you-rather-007",
+    "mode": "would-you-rather",
+    "text": "Would you rather know every country's history or every country's cuisine?"
+  },
+  {
+    "id": "would-you-rather-008",
+    "mode": "would-you-rather",
+    "text": "Would you rather have unlimited books or unlimited travel?"
+  },
+  {
+    "id": "would-you-rather-009",
+    "mode": "would-you-rather",
+    "text": "Would you rather be able to fly slowly or run incredibly fast?"
+  },
+  {
+    "id": "would-you-rather-010",
+    "mode": "would-you-rather",
+    "text": "Would you rather have a personal chef or a personal driver?"
+  },
+  {
+    "id": "would-you-rather-011",
+    "mode": "would-you-rather",
+    "text": "Would you rather visit the past for one day or the future for one day?"
+  },
+  {
+    "id": "would-you-rather-012",
+    "mode": "would-you-rather",
+    "text": "Would you rather always have perfect weather or perfect Wi-Fi?"
+  },
+  {
+    "id": "would-you-rather-013",
+    "mode": "would-you-rather",
+    "text": "Would you rather solve one world problem or one personal problem?"
+  },
+  {
+    "id": "would-you-rather-014",
+    "mode": "would-you-rather",
+    "text": "Would you rather be famous for kindness or creativity?"
+  },
+  {
+    "id": "would-you-rather-015",
+    "mode": "would-you-rather",
+    "text": "Would you rather have a tiny dragon or a giant friendly dog?"
+  },
+  {
+    "id": "would-you-rather-016",
+    "mode": "would-you-rather",
+    "text": "Would you rather never wait in a queue or never sit in traffic?"
+  },
+  {
+    "id": "would-you-rather-017",
+    "mode": "would-you-rather",
+    "text": "Would you rather relive your best day or preview your next birthday?"
+  },
+  {
+    "id": "would-you-rather-018",
+    "mode": "would-you-rather",
+    "text": "Would you rather be great at every sport or every art?"
+  },
+  {
+    "id": "would-you-rather-019",
+    "mode": "would-you-rather",
+    "text": "Would you rather have a photographic memory or unlimited focus?"
+  },
+  {
+    "id": "would-you-rather-020",
+    "mode": "would-you-rather",
+    "text": "Would you rather travel with friends or explore solo?"
+  },
+  {
+    "id": "most-likely-to-001",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to become famous for something unexpected?"
+  },
+  {
+    "id": "most-likely-to-002",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to plan an entire trip in one evening?"
+  },
+  {
+    "id": "most-likely-to-003",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to laugh at the wrong moment?"
+  },
+  {
+    "id": "most-likely-to-004",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to start a business with a wild idea?"
+  },
+  {
+    "id": "most-likely-to-005",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to survive a week without a phone?"
+  },
+  {
+    "id": "most-likely-to-006",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to remember everyone's birthday?"
+  },
+  {
+    "id": "most-likely-to-007",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to get lost while using a map?"
+  },
+  {
+    "id": "most-likely-to-008",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to become a great storyteller?"
+  },
+  {
+    "id": "most-likely-to-009",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to adopt an unusual pet?"
+  },
+  {
+    "id": "most-likely-to-010",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to turn a hobby into a career?"
+  },
+  {
+    "id": "most-likely-to-011",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to make friends with a stranger?"
+  },
+  {
+    "id": "most-likely-to-012",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to win a quiz without studying?"
+  },
+  {
+    "id": "most-likely-to-013",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to try an extreme sport?"
+  },
+  {
+    "id": "most-likely-to-014",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to organize a surprise party?"
+  },
+  {
+    "id": "most-likely-to-015",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to invent a new holiday?"
+  },
+  {
+    "id": "most-likely-to-016",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to become a travel vlogger?"
+  },
+  {
+    "id": "most-likely-to-017",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to stay calm in a crisis?"
+  },
+  {
+    "id": "most-likely-to-018",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to forget why they entered a room?"
+  },
+  {
+    "id": "most-likely-to-019",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to make everyone laugh?"
+  },
+  {
+    "id": "most-likely-to-020",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to learn a new language quickly?"
+  },
+  {
+    "id": "classic-extra-001",
+    "mode": "classic",
+    "text": "What is one thing you would put on your personal bucket list?"
+  },
+  {
+    "id": "classic-extra-002",
+    "mode": "classic",
+    "text": "Which everyday sound do you find satisfying?"
+  },
+  {
+    "id": "classic-extra-003",
+    "mode": "classic",
+    "text": "What is a place nearby you would recommend to a visitor?"
+  },
+  {
+    "id": "classic-extra-004",
+    "mode": "classic",
+    "text": "What is the best advice you have received?"
+  },
+  {
+    "id": "classic-extra-005",
+    "mode": "classic",
+    "text": "Which fictional sidekick deserves their own story?"
+  },
+  {
+    "id": "classic-extra-006",
+    "mode": "classic",
+    "text": "What is a tradition you would like to start?"
+  },
+  {
+    "id": "classic-extra-007",
+    "mode": "classic",
+    "text": "What is a purchase under a small budget that improved your life?"
+  },
+  {
+    "id": "classic-extra-008",
+    "mode": "classic",
+    "text": "What would you do with a completely screen-free day?"
+  },
+  {
+    "id": "classic-extra-009",
+    "mode": "classic",
+    "text": "Which meal reminds you of a good memory?"
+  },
+  {
+    "id": "classic-extra-010",
+    "mode": "classic",
+    "text": "What is something you are curious about right now?"
+  },
+  {
+    "id": "classic-extra-011",
+    "mode": "classic",
+    "text": "What is a game you never get tired of?"
+  },
+  {
+    "id": "classic-extra-012",
+    "mode": "classic",
+    "text": "What would you teach in a class of your own?"
+  },
+  {
+    "id": "classic-extra-013",
+    "mode": "classic",
+    "text": "Which smell brings back a memory?"
+  },
+  {
+    "id": "classic-extra-014",
+    "mode": "classic",
+    "text": "What is the most useful thing you learned from a friend?"
+  },
+  {
+    "id": "classic-extra-015",
+    "mode": "classic",
+    "text": "What is a harmless opinion you will defend forever?"
+  },
+  {
+    "id": "classic-extra-016",
+    "mode": "classic",
+    "text": "What would your ideal weekend include?"
+  },
+  {
+    "id": "classic-extra-017",
+    "mode": "classic",
+    "text": "Which fictional gadget would you borrow?"
+  },
+  {
+    "id": "classic-extra-018",
+    "mode": "classic",
+    "text": "What is a small luxury you appreciate?"
+  },
+  {
+    "id": "classic-extra-019",
+    "mode": "classic",
+    "text": "What is something you collect or would collect?"
+  },
+  {
+    "id": "classic-extra-020",
+    "mode": "classic",
+    "text": "What is the best surprise you have experienced?"
+  },
+  {
+    "id": "blackout-extra-001",
+    "mode": "blackout",
+    "text": "Give this group a dramatic team name."
+  },
+  {
+    "id": "blackout-extra-002",
+    "mode": "blackout",
+    "text": "Invent a new emoji and explain it."
+  },
+  {
+    "id": "blackout-extra-003",
+    "mode": "blackout",
+    "text": "Describe a sandwich as if it were a celebrity."
+  },
+  {
+    "id": "blackout-extra-004",
+    "mode": "blackout",
+    "text": "Create a warning sign for your personality."
+  },
+  {
+    "id": "blackout-extra-005",
+    "mode": "blackout",
+    "text": "What would be the strangest Olympic event?"
+  },
+  {
+    "id": "blackout-extra-006",
+    "mode": "blackout",
+    "text": "Narrate someone opening a door like an action scene."
+  },
+  {
+    "id": "blackout-extra-007",
+    "mode": "blackout",
+    "text": "Make up a headline about today's events."
+  },
+  {
+    "id": "blackout-extra-008",
+    "mode": "blackout",
+    "text": "Design a holiday for people who love naps."
+  },
+  {
+    "id": "blackout-extra-009",
+    "mode": "blackout",
+    "text": "If clouds had jobs, what would they do?"
+  },
+  {
+    "id": "blackout-extra-010",
+    "mode": "blackout",
+    "text": "What would a time traveller misunderstand about today?"
+  },
+  {
+    "id": "blackout-extra-011",
+    "mode": "blackout",
+    "text": "Name a band made from household objects."
+  },
+  {
+    "id": "blackout-extra-012",
+    "mode": "blackout",
+    "text": "Create a fictional app review in one sentence."
+  },
+  {
+    "id": "blackout-extra-013",
+    "mode": "blackout",
+    "text": "Describe a cat's secret government job."
+  },
+  {
+    "id": "blackout-extra-014",
+    "mode": "blackout",
+    "text": "What would your fridge say about you?"
+  },
+  {
+    "id": "blackout-extra-015",
+    "mode": "blackout",
+    "text": "Invent a sport played with socks."
+  },
+  {
+    "id": "blackout-extra-016",
+    "mode": "blackout",
+    "text": "Give a dramatic speech about a missing pen."
+  },
+  {
+    "id": "blackout-extra-017",
+    "mode": "blackout",
+    "text": "What is a terrible name for a spaceship?"
+  },
+  {
+    "id": "blackout-extra-018",
+    "mode": "blackout",
+    "text": "Pitch a movie starring a potato."
+  },
+  {
+    "id": "blackout-extra-019",
+    "mode": "blackout",
+    "text": "Describe your mood as a traffic update."
+  },
+  {
+    "id": "blackout-extra-020",
+    "mode": "blackout",
+    "text": "Make up a new law for an imaginary country."
+  },
+  {
+    "id": "deep-questions-extra-001",
+    "mode": "deep-questions",
+    "text": "What helps you rebuild confidence after a setback?"
+  },
+  {
+    "id": "deep-questions-extra-002",
+    "mode": "deep-questions",
+    "text": "What does being brave mean in ordinary life?"
+  },
+  {
+    "id": "deep-questions-extra-003",
+    "mode": "deep-questions",
+    "text": "Which memory reminds you that you have grown?"
+  },
+  {
+    "id": "deep-questions-extra-004",
+    "mode": "deep-questions",
+    "text": "How do you know when someone has earned your trust?"
+  },
+  {
+    "id": "deep-questions-extra-005",
+    "mode": "deep-questions",
+    "text": "What do you wish you worried less about?"
+  },
+  {
+    "id": "deep-questions-extra-006",
+    "mode": "deep-questions",
+    "text": "What is a boundary you have learned to value?"
+  },
+  {
+    "id": "deep-questions-extra-007",
+    "mode": "deep-questions",
+    "text": "What makes an apology feel sincere?"
+  },
+  {
+    "id": "deep-questions-extra-008",
+    "mode": "deep-questions",
+    "text": "What part of your personality took time to accept?"
+  },
+  {
+    "id": "deep-questions-extra-009",
+    "mode": "deep-questions",
+    "text": "What do you want to be remembered for by friends?"
+  },
+  {
+    "id": "deep-questions-extra-010",
+    "mode": "deep-questions",
+    "text": "What is a question you are afraid to ask?"
+  },
+  {
+    "id": "deep-questions-extra-011",
+    "mode": "deep-questions",
+    "text": "How do you define emotional maturity?"
+  },
+  {
+    "id": "deep-questions-extra-012",
+    "mode": "deep-questions",
+    "text": "What is a habit that has improved your life?"
+  },
+  {
+    "id": "deep-questions-extra-013",
+    "mode": "deep-questions",
+    "text": "When have you felt proud of someone else?"
+  },
+  {
+    "id": "deep-questions-extra-014",
+    "mode": "deep-questions",
+    "text": "What makes a disagreement respectful?"
+  },
+  {
+    "id": "deep-questions-extra-015",
+    "mode": "deep-questions",
+    "text": "What is one thing you would tell your younger self?"
+  },
+  {
+    "id": "deep-questions-extra-016",
+    "mode": "deep-questions",
+    "text": "How do you balance ambition and contentment?"
+  },
+  {
+    "id": "deep-questions-extra-017",
+    "mode": "deep-questions",
+    "text": "What kind of person brings out your best?"
+  },
+  {
+    "id": "deep-questions-extra-018",
+    "mode": "deep-questions",
+    "text": "What does a good life need more of?"
+  },
+  {
+    "id": "deep-questions-extra-019",
+    "mode": "deep-questions",
+    "text": "What is a challenge you are ready to take on?"
+  },
+  {
+    "id": "deep-questions-extra-020",
+    "mode": "deep-questions",
+    "text": "What is one way you can be kinder to yourself?"
+  },
+  {
+    "id": "spicy-extra-001",
+    "mode": "spicy",
+    "text": "What is the most charming way someone can start a conversation?"
+  },
+  {
+    "id": "spicy-extra-002",
+    "mode": "spicy",
+    "text": "What is a romantic gesture that feels overrated?"
+  },
+  {
+    "id": "spicy-extra-003",
+    "mode": "spicy",
+    "text": "What is your favourite kind of playful banter?"
+  },
+  {
+    "id": "spicy-extra-004",
+    "mode": "spicy",
+    "text": "Would you rather receive a thoughtful note or a surprise call?"
+  },
+  {
+    "id": "spicy-extra-005",
+    "mode": "spicy",
+    "text": "What is a date idea that sounds unusual but fun?"
+  },
+  {
+    "id": "spicy-extra-006",
+    "mode": "spicy",
+    "text": "What is a quality that makes someone memorable?"
+  },
+  {
+    "id": "spicy-extra-007",
+    "mode": "spicy",
+    "text": "What is your funniest awkward-silence story?"
+  },
+  {
+    "id": "spicy-extra-008",
+    "mode": "spicy",
+    "text": "What is a compliment you would give someone here?"
+  },
+  {
+    "id": "spicy-extra-009",
+    "mode": "spicy",
+    "text": "What is a fictional character you would date?"
+  },
+  {
+    "id": "spicy-extra-010",
+    "mode": "spicy",
+    "text": "What is a green flag people overlook?"
+  },
+  {
+    "id": "spicy-extra-011",
+    "mode": "spicy",
+    "text": "What is your idea of perfect chemistry?"
+  },
+  {
+    "id": "spicy-extra-012",
+    "mode": "spicy",
+    "text": "What is a cute but underrated date activity?"
+  },
+  {
+    "id": "spicy-extra-013",
+    "mode": "spicy",
+    "text": "What is a song that makes you feel confident?"
+  },
+  {
+    "id": "spicy-extra-014",
+    "mode": "spicy",
+    "text": "What is the best way to show interest respectfully?"
+  },
+  {
+    "id": "spicy-extra-015",
+    "mode": "spicy",
+    "text": "What is a romantic movie trope you enjoy?"
+  },
+  {
+    "id": "spicy-extra-016",
+    "mode": "spicy",
+    "text": "What is a funny first-impression mistake?"
+  },
+  {
+    "id": "spicy-extra-017",
+    "mode": "spicy",
+    "text": "What is a quality that beats good looks?"
+  },
+  {
+    "id": "spicy-extra-018",
+    "mode": "spicy",
+    "text": "What is a conversation topic that never gets boring?"
+  },
+  {
+    "id": "spicy-extra-019",
+    "mode": "spicy",
+    "text": "What is a memorable way to ask someone out?"
+  },
+  {
+    "id": "spicy-extra-020",
+    "mode": "spicy",
+    "text": "What is a small gesture that feels special?"
+  },
+  {
+    "id": "battle-extra-001",
+    "mode": "battle",
+    "text": "Defend why tea beats coffee, or coffee beats tea."
+  },
+  {
+    "id": "battle-extra-002",
+    "mode": "battle",
+    "text": "Which fictional world would be best to live in?"
+  },
+  {
+    "id": "battle-extra-003",
+    "mode": "battle",
+    "text": "Make the case for mornings being underrated."
+  },
+  {
+    "id": "battle-extra-004",
+    "mode": "battle",
+    "text": "Which is better for a group: board games or video games?"
+  },
+  {
+    "id": "battle-extra-005",
+    "mode": "battle",
+    "text": "Choose one: teleportation or time travel. Defend it."
+  },
+  {
+    "id": "battle-extra-006",
+    "mode": "battle",
+    "text": "Which pet is the best study companion?"
+  },
+  {
+    "id": "battle-extra-007",
+    "mode": "battle",
+    "text": "Argue for learning by doing instead of reading."
+  },
+  {
+    "id": "battle-extra-008",
+    "mode": "battle",
+    "text": "Which supervillain would make the best mayor?"
+  },
+  {
+    "id": "battle-extra-009",
+    "mode": "battle",
+    "text": "What is the best comfort food and why?"
+  },
+  {
+    "id": "battle-extra-010",
+    "mode": "battle",
+    "text": "Defend having fewer but better friends."
+  },
+  {
+    "id": "battle-extra-011",
+    "mode": "battle",
+    "text": "Which is more important: creativity or discipline?"
+  },
+  {
+    "id": "battle-extra-012",
+    "mode": "battle",
+    "text": "Would you rather master chess or a musical instrument?"
+  },
+  {
+    "id": "battle-extra-013",
+    "mode": "battle",
+    "text": "Which season has the best fashion?"
+  },
+  {
+    "id": "battle-extra-014",
+    "mode": "battle",
+    "text": "Make a case for handwritten notes."
+  },
+  {
+    "id": "battle-extra-015",
+    "mode": "battle",
+    "text": "Which everyday job deserves more respect?"
+  },
+  {
+    "id": "battle-extra-016",
+    "mode": "battle",
+    "text": "Defend the value of doing nothing sometimes."
+  },
+  {
+    "id": "battle-extra-017",
+    "mode": "battle",
+    "text": "Which fictional detective would solve a mystery fastest?"
+  },
+  {
+    "id": "battle-extra-018",
+    "mode": "battle",
+    "text": "Which is better: mountains or beaches?"
+  },
+  {
+    "id": "battle-extra-019",
+    "mode": "battle",
+    "text": "What is the best way to learn a difficult skill?"
+  },
+  {
+    "id": "battle-extra-020",
+    "mode": "battle",
+    "text": "Argue that a quiet night is better than a big party."
+  },
+  {
+    "id": "truth-or-dare-extra-001",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a harmless habit you would like to change?"
+  },
+  {
+    "id": "truth-or-dare-extra-002",
+    "mode": "truth-or-dare",
+    "text": "Dare: Give a 10-second acceptance speech for an imaginary award."
+  },
+  {
+    "id": "truth-or-dare-extra-003",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is the funniest excuse you have used?"
+  },
+  {
+    "id": "truth-or-dare-extra-004",
+    "mode": "truth-or-dare",
+    "text": "Dare: Invent a handshake and teach it to the group."
+  },
+  {
+    "id": "truth-or-dare-extra-005",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is one thing you are secretly competitive about?"
+  },
+  {
+    "id": "truth-or-dare-extra-006",
+    "mode": "truth-or-dare",
+    "text": "Dare: Say the alphabet as if you are very sleepy."
+  },
+  {
+    "id": "truth-or-dare-extra-007",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a food you disliked as a child?"
+  },
+  {
+    "id": "truth-or-dare-extra-008",
+    "mode": "truth-or-dare",
+    "text": "Dare: Make up a two-line advertisement for a chair."
+  },
+  {
+    "id": "truth-or-dare-extra-009",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is the most random thing you know?"
+  },
+  {
+    "id": "truth-or-dare-extra-010",
+    "mode": "truth-or-dare",
+    "text": "Dare: Introduce yourself as a royal character."
+  },
+  {
+    "id": "truth-or-dare-extra-011",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a moment you wish had been recorded?"
+  },
+  {
+    "id": "truth-or-dare-extra-012",
+    "mode": "truth-or-dare",
+    "text": "Dare: Act out a slow-motion celebration."
+  },
+  {
+    "id": "truth-or-dare-extra-013",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is your most-used phrase?"
+  },
+  {
+    "id": "truth-or-dare-extra-014",
+    "mode": "truth-or-dare",
+    "text": "Dare: Make a sound effect for an approaching spaceship."
+  },
+  {
+    "id": "truth-or-dare-extra-015",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is something you learned from a mistake?"
+  },
+  {
+    "id": "truth-or-dare-extra-016",
+    "mode": "truth-or-dare",
+    "text": "Dare: Describe your day using three dramatic gestures."
+  },
+  {
+    "id": "truth-or-dare-extra-017",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is a silly fear you have overcome?"
+  },
+  {
+    "id": "truth-or-dare-extra-018",
+    "mode": "truth-or-dare",
+    "text": "Dare: Give someone a friendly superhero name."
+  },
+  {
+    "id": "truth-or-dare-extra-019",
+    "mode": "truth-or-dare",
+    "text": "Truth: What is the strangest thing you believed as a kid?"
+  },
+  {
+    "id": "truth-or-dare-extra-020",
+    "mode": "truth-or-dare",
+    "text": "Dare: Do a silent 5-second comedy performance."
+  },
+  {
+    "id": "would-you-rather-extra-001",
+    "mode": "would-you-rather",
+    "text": "Would you rather have a library in your home or a cinema?"
+  },
+  {
+    "id": "would-you-rather-extra-002",
+    "mode": "would-you-rather",
+    "text": "Would you rather be able to breathe underwater or see in the dark?"
+  },
+  {
+    "id": "would-you-rather-extra-003",
+    "mode": "would-you-rather",
+    "text": "Would you rather have free flights or free hotels?"
+  },
+  {
+    "id": "would-you-rather-extra-004",
+    "mode": "would-you-rather",
+    "text": "Would you rather be an expert cook or expert photographer?"
+  },
+  {
+    "id": "would-you-rather-extra-005",
+    "mode": "would-you-rather",
+    "text": "Would you rather live near a forest or near the sea?"
+  },
+  {
+    "id": "would-you-rather-extra-006",
+    "mode": "would-you-rather",
+    "text": "Would you rather always find lost items or never lose anything?"
+  },
+  {
+    "id": "would-you-rather-extra-007",
+    "mode": "would-you-rather",
+    "text": "Would you rather have a day with no deadlines or no notifications?"
+  },
+  {
+    "id": "would-you-rather-extra-008",
+    "mode": "would-you-rather",
+    "text": "Would you rather be able to talk to plants or understand birds?"
+  },
+  {
+    "id": "would-you-rather-extra-009",
+    "mode": "would-you-rather",
+    "text": "Would you rather explore an ancient city or a new planet?"
+  },
+  {
+    "id": "would-you-rather-extra-010",
+    "mode": "would-you-rather",
+    "text": "Would you rather have perfect memory for names or faces?"
+  },
+  {
+    "id": "would-you-rather-extra-011",
+    "mode": "would-you-rather",
+    "text": "Would you rather be great at dancing or public speaking?"
+  },
+  {
+    "id": "would-you-rather-extra-012",
+    "mode": "would-you-rather",
+    "text": "Would you rather watch every film once or one film a hundred times?"
+  },
+  {
+    "id": "would-you-rather-extra-013",
+    "mode": "would-you-rather",
+    "text": "Would you rather have a robot helper or a self-cleaning home?"
+  },
+  {
+    "id": "would-you-rather-extra-014",
+    "mode": "would-you-rather",
+    "text": "Would you rather know the answer to every puzzle or every riddle?"
+  },
+  {
+    "id": "would-you-rather-extra-015",
+    "mode": "would-you-rather",
+    "text": "Would you rather spend a year travelling or building a dream home?"
+  },
+  {
+    "id": "would-you-rather-extra-016",
+    "mode": "would-you-rather",
+    "text": "Would you rather have unlimited creativity or unlimited energy?"
+  },
+  {
+    "id": "would-you-rather-extra-017",
+    "mode": "would-you-rather",
+    "text": "Would you rather always pick the best seat or the best meal?"
+  },
+  {
+    "id": "would-you-rather-extra-018",
+    "mode": "would-you-rather",
+    "text": "Would you rather have a rewind button for conversations or photos?"
+  },
+  {
+    "id": "would-you-rather-extra-019",
+    "mode": "would-you-rather",
+    "text": "Would you rather live in a world without ads or spam?"
+  },
+  {
+    "id": "would-you-rather-extra-020",
+    "mode": "would-you-rather",
+    "text": "Would you rather be able to shrink or grow at will?"
+  },
+  {
+    "id": "most-likely-to-extra-001",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to start dancing when a good song plays?"
+  },
+  {
+    "id": "most-likely-to-extra-002",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to bring snacks for everyone?"
+  },
+  {
+    "id": "most-likely-to-extra-003",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to become a skilled photographer?"
+  },
+  {
+    "id": "most-likely-to-extra-004",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to talk their way out of trouble?"
+  },
+  {
+    "id": "most-likely-to-extra-005",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to build something from scratch?"
+  },
+  {
+    "id": "most-likely-to-extra-006",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to make a playlist for every mood?"
+  },
+  {
+    "id": "most-likely-to-extra-007",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to volunteer for a challenge first?"
+  },
+  {
+    "id": "most-likely-to-extra-008",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to become a great teacher?"
+  },
+  {
+    "id": "most-likely-to-extra-009",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to keep a secret surprise?"
+  },
+  {
+    "id": "most-likely-to-extra-010",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to take the scenic route?"
+  },
+  {
+    "id": "most-likely-to-extra-011",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to learn a magic trick?"
+  },
+  {
+    "id": "most-likely-to-extra-012",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to start a podcast?"
+  },
+  {
+    "id": "most-likely-to-extra-013",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to make a stranger feel welcome?"
+  },
+  {
+    "id": "most-likely-to-extra-014",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to find a clever shortcut?"
+  },
+  {
+    "id": "most-likely-to-extra-015",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to remember a tiny detail?"
+  },
+  {
+    "id": "most-likely-to-extra-016",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to win a costume contest?"
+  },
+  {
+    "id": "most-likely-to-extra-017",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to plan a spontaneous adventure?"
+  },
+  {
+    "id": "most-likely-to-extra-018",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to become a famous chef?"
+  },
+  {
+    "id": "most-likely-to-extra-019",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to stay up talking all night?"
+  },
+  {
+    "id": "most-likely-to-extra-020",
+    "mode": "most-likely-to",
+    "text": "Who is most likely to turn a bad day around?"
+  }
+]

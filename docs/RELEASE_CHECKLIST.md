@@ -1,0 +1,11 @@
+# Release checklist
+- [ ] Configure production `CLIENT_ORIGIN` and `VITE_SERVER_URL`.
+- [ ] Add authentication and authorization.
+- [ ] Add database persistence and Supabase RLS policies.
+- [ ] Add input validation, rate limiting, moderation, and reporting.
+- [ ] Implement reconnection and host migration tests.
+- [ ] Add unit, integration, and end-to-end tests.
+- [ ] Test accessibility, mobile layouts, and slow networks.
+- [ ] Review privacy policy and app-store requirements.
+- [ ] Load-test the expected number of concurrent rooms.
+- [ ] Build and test Android package on physical devices.
